@@ -37,7 +37,7 @@ border: 1px solid rgba(0,0,0,0.3);
 box-shadow: 0px 0px 5px rgb(11, 83, 195); -webkit-box-shadow: 0px 0px 5px rgb(11, 83, 195);-moz-box-shadow: 0px 0px 5px rgb(11, 83, 195);
 background: #4973B9;
 border-radius: 2px;
-display: flex;
+display: show;
 flex-flow: column;
 }
 .the_widget{
